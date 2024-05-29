@@ -11,7 +11,6 @@ SPI Interface Implementation for FPGA, that I have made during studies with [wch
 
 
 ## Project Files:
-- *dokumentacja* - documentation of the project
 - *SPI* - directory for all project files
 - *SPI/MODULES* - directory for all SPI modules
 - *SPI/TESTBENCH* - directory for TESTBENCH module
